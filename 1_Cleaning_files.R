@@ -2,7 +2,7 @@
 
 # MERGING FILES
 
-setwd("/Users/christineewers/Dropbox/Nucella/Microsatellite_development/Geneious Data Sept17")
+setwd("/Users/Lab4349/Dropbox/2018 Nucella Data/Geneious Data Sept17/")
 
 # make function to count number of amplified loci
 qc <- function(input) {
